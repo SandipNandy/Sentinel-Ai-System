@@ -7,9 +7,9 @@ Welcome to the Sentinel-AI documentation. This is an AI-powered platform intelli
 ## 📁 Documentation Structure
 
 ### **Core Documentation**
-1. **[Architecture](./architecture.md)** - Technical architecture and design decisions
-2. **[Metrics & KPIs](./metrics.md)** - Measurement framework and success metrics
-3. **[Product Requirements](./PRD.md)** - Product vision, features, and requirements
+1. **[Architecture](./Documents/ARCHITECTURE.md)** - Technical architecture and design decisions
+2. **[Metrics & KPIs](./Documents/METRICES.md)** - Measurement framework and success metrics
+3. **[Product Requirements](./Documents/PRD.md)** - Product vision, features, and requirements
 
 ### **Quick Links**
 - [Getting Started Guide](../README.md)
