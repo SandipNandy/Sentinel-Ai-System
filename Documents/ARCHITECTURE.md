@@ -1,3 +1,7 @@
+# System Architecture
+
+## Overview
+```mermaid
 graph TB
     %% Presentation Layer
     subgraph "Presentation Layer - User Interface"
