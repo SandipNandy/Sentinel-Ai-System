@@ -1,4 +1,4 @@
-# Sentinel-AI Documentation Hub
+# “Sentinel-AI” – Platform Reliability & Executive Insights Engine
 
 ## 📚 Overview
 
