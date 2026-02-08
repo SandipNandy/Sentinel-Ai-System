@@ -10,15 +10,15 @@
 
 ## 📋 Document Information
 
-| Section | Details |
-|---------|---------|
-| **Document Version** | 2.0 |
-| **Status** | Approved |
-| **Last Updated** | November 15, 2024 |
-| **Product Owner** | Head of Platform TPM |
-| **Engineering Lead** | Director of Platform Engineering |
-| **Design Lead** | UX Manager |
-| **Stakeholders** | CTO, VP Engineering, All TPMs, SRE Leads |
+|                                 Section                          |                                    Details                                    |
+|------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Document Version                                                 |                                     2.0                                       |
+| Status                                                           |                                   Approved                                    |
+| Last Updated                                                     |                               November 15, 2024                               |
+| Product Owner                                                    |                              Head of Platform TPM                             |
+| Engineering Lead                                                 |                         Director of Platform Engineering                      |
+| Design Lead                                                      |                                   UX Manager                                  |
+| Stakeholders                                                     |                       CTO, VP Engineering, All TPMs, SRE Leads                |
 
 ## 🎯 Executive Summary
 
