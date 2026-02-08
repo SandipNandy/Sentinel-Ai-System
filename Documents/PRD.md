@@ -43,12 +43,12 @@ Sentinel-AI is an AI-powered platform intelligence system that automatically:
 4. **Generates** executive-ready reports and recommendations
 
 ### **Business Value**
-| Metric | Current State | With Sentinel-AI | Improvement |
-|--------|--------------|------------------|-------------|
-| Time to assess incident impact | 2-4 hours | 5 minutes | 96% reduction |
-| Risk detection lead time | 3-5 days | Proactive | 100% improvement |
-| Manual report creation | 8 hours/week | 1 hour/week | 87.5% reduction |
-| Executive satisfaction | 60% | 90% | 50% improvement |
+|       Metric                    |           Current State           |         With Sentinel-AI        |            Improvement          |
+|---------------------------------|-----------------------------------|---------------------------------|---------------------------------|
+| Time to assess incident impact  |            2-4 hours              |           5 minutes             |          96% reduction          |
+| Risk detection lead time        |             3-5 days              |           Proactive             |         100% improvement        |
+| Manual report creation          |            8 hours/week           |           1 hour/week           |          87.5% reduction        |
+| Executive satisfaction          |               60%                 |              90%                |          50% improvement        |
 
 ## 👥 User Personas
 
