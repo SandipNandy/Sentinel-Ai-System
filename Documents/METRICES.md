@@ -34,12 +34,12 @@ This document defines the metrics, KPIs, and measurement framework for the Senti
 | Success Rate                     | `Successful Requests / Total Requests × 100`|             > 99.9%                 |                    Per minute                    |
 
 #### **Resource Utilization**
-| Metric | Formula | Target | Measurement Frequency |
-|--------|---------|--------|---------------------|
-| **CPU Utilization** | `Used CPU / Total CPU × 100` | < 70% | Per minute |
-| **Memory Utilization** | `Used Memory / Total Memory × 100` | < 80% | Per minute |
-| **Disk I/O** | Read/Write operations per second | < 1000 IOPS | Per minute |
-| **Network Bandwidth** | Bytes in/out per second | < 1 Gbps | Per minute |
+|        Metric                    |            Formula                          |              Target                 |               Measurement Frequency              |
+|----------------------------------|---------------------------------------------|-------------------------------------|--------------------------------------------------|
+| CPU Utilization                  | `Used CPU / Total CPU × 100`                |               < 70%                 |                    Per minute                    |
+| Memory Utilization               | `Used Memory / Total Memory × 100`          |               < 80%                 |                    Per minute                    |
+| Disk I/O                         | Read/Write operations per second            |             < 1000 IOPS             |                    Per minute                    |
+| Network Bandwidth                | Bytes in/out per second                     |               < 1 Gbps              |                    Per minute                    |
 
 ### **2. Composite Health Scores**
 
