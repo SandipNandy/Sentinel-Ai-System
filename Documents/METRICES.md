@@ -17,21 +17,21 @@ This document defines the metrics, KPIs, and measurement framework for the Senti
 ### **1. Service-Level Metrics**
 
 #### **Availability & Reliability**
-| Metric | Formula | Target | Measurement Frequency |
-|--------|---------|--------|---------------------|
-| **Service Availability** | `(Total Time - Downtime) / Total Time × 100` | 99.95% | Per minute |
-| **Error Rate** | `Failed Requests / Total Requests × 100` | < 0.1% | Per minute |
-| **Mean Time Between Failures (MTBF)** | `Total Uptime / Number of Failures` | > 720 hours | Daily |
-| **Mean Time To Recovery (MTTR)** | `Total Downtime / Number of Incidents` | < 1 hour | Per incident |
+|            Metric                |                Formula                      |            Target                   |              Measurement Frequency               |
+|----------------------------------|---------------------------------------------|-------------------------------------|--------------------------------------------------|
+| Service Availability             | `(Total Time - Downtime) / Total Time × 100`|            99.95%                   |              Per minute                          |
+| Error Rate                       | `Failed Requests / Total Requests × 100`    |            < 0.1%                   |              Per minute                          |
+| Mean Time Between Failures (MTBF)| `Total Uptime / Number of Failures`         |            > 720 hours              |                Daily                             |
+| Mean Time To Recovery (MTTR)     | `Total Downtime / Number of Incidents`      |             < 1 hour                |             Per incident                         |
 
 #### **Performance Metrics**
-| Metric | Formula | Target | Measurement Frequency |
-|--------|---------|--------|---------------------|
-| **Latency (P50)** | 50th percentile response time | < 100ms | Per minute |
-| **Latency (P95)** | 95th percentile response time | < 250ms | Per minute |
-| **Latency (P99)** | 99th percentile response time | < 500ms | Per minute |
-| **Throughput** | `Requests per Second (RPS)` | Variable by service | Per minute |
-| **Success Rate** | `Successful Requests / Total Requests × 100` | > 99.9% | Per minute |
+|           Metric                 |              Formula                        |             Target                  |             Measurement Frequency                |
+|----------------------------------|---------------------------------------------|-------------------------------------|--------------------------------------------------|
+| Latency (P50)                    | 50th percentile response time               |            < 100ms                  |                    Per minute                    |
+| Latency (P95)                    | 95th percentile response time               |            < 250ms                  |                    Per minute                    |
+| Latency (P99)                    | 99th percentile response time               |            < 500ms                  |                    Per minute                    |
+| Throughput                       | `Requests per Second (RPS)`                 |          Variable by service        |                    Per minute                    |
+| Success Rate                     | `Successful Requests / Total Requests × 100`|             > 99.9%                 |                    Per minute                    |
 
 #### **Resource Utilization**
 | Metric | Formula | Target | Measurement Frequency |
