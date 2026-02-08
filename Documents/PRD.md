@@ -53,8 +53,8 @@ Sentinel-AI is an AI-powered platform intelligence system that automatically:
 ## 👥 User Personas
 
 ### **Primary Persona: Platform TPM**
-**Name**: Alex Chen  
-**Role**: Senior Platform TPM  
+**Name**: Sandip Nandi  
+**Role**: Senior Engineer -Cloud & DevOps  
 **Goals**:
 - Proactively identify program delivery risks
 - Communicate platform health to executives
@@ -68,7 +68,7 @@ Sentinel-AI is an AI-powered platform intelligence system that automatically:
 - Difficulty prioritizing platform investments
 
 ### **Secondary Persona: Engineering Manager**
-**Name**: Maria Rodriguez  
+**Name**: XYZ  
 **Role**: Engineering Manager, Payment Services  
 **Goals**:
 - Maintain service reliability and performance
@@ -83,7 +83,7 @@ Sentinel-AI is an AI-powered platform intelligence system that automatically:
 - Difficulty explaining technical trade-offs to non-technical stakeholders
 
 ### **Tertiary Persona: Executive Stakeholder**
-**Name**: James Wilson  
+**Name**: XYZ  
 **Role**: VP of Engineering  
 **Goals**:
 - Make data-driven investment decisions
@@ -432,12 +432,12 @@ Key insights from 25 TPM interviews:
 
 ## 🎯 Approval
 
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Product Owner | | | |
-| Engineering Lead | | | |
-| Design Lead | | | |
-| Head of Platform TPM | | | |
-| VP of Engineering | | | |
+|                   Role                |                Name              |          Signature        |          Date           |
+|---------------------------------------|----------------------------------|---------------------------|-------------------------|
+|               Product Owner           |                                  |                           |                         |
+|              Engineering Lead         |                                  |                           |                         |
+|               Design Lead             |                                  |                           |                         |
+|            Head of Platform TPM       |                                  |                           |                         |
+|             VP of Engineering         |                                  |                           |                         |
 
 *This document is live and will be updated as requirements evolve.*
