@@ -1,5 +1,4 @@
 #Reqirements are updated
-
 streamlit
 plotly
 pandas
