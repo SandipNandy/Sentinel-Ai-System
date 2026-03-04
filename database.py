@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import random
 
 class SimpleDatabase:
+    
     """A simple database simulator for TPM data"""
     
     def __init__(self):
