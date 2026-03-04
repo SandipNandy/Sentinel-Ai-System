@@ -1,3 +1,4 @@
+
 # database.py - Simple in-memory database for the demo
 import json
 from datetime import datetime, timedelta
