@@ -6,6 +6,7 @@ Simple FastAPI server for the TPM intelligence platform
 from fastapi import FastAPI, HTTPException
 
 from fastapi.middleware.cors import CORSMiddleware
+
 from pydantic import BaseModel
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional
