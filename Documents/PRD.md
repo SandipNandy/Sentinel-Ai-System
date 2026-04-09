@@ -1,4 +1,3 @@
-
 ## **3. PRODUCT REQUIREMENTS DOCUMENT**
 
 **`docs/PRD.md`**:
