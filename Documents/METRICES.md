@@ -1,4 +1,3 @@
-
 ## **2. METRICS AND KPI DOCUMENTATION**
 
 **`docs/metrics.md`**:
