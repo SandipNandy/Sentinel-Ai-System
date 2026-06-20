@@ -1,4 +1,3 @@
-
 #Reqirements are updated
 streamlit
 plotly
