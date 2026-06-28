@@ -1,5 +1,6 @@
 ## **3. PRODUCT REQUIREMENTS DOCUMENT**
 
+
 **`docs/PRD.md`**:
 ```markdown
 # Sentinel-AI: Platform Intelligence Engine
